@@ -1,0 +1,22 @@
+Opening log
+Parsing headers
+Dumping headers:
+SlackData::__set_state(array(
+   'regex_CL_parser' => '/(\\w+)\\s*(\\d+|)\\s*(.+|)/',
+   'parsed_CL' => NULL,
+   'data' => 
+  array (
+    'token' => 'H2IVS69q8VJJzBDLmnzHxkLV',
+    'team_id' => 'T02MN213X',
+    'team_domain' => 'faceless',
+    'channel_id' => 'C02MN214F',
+    'channel_name' => 'general',
+    'user_id' => 'U02MS0WM1',
+    'user_name' => 'maxzilla60',
+    'command' => '/poll',
+    'text' => 'kut',
+  ),
+   'webhook' => 'https://hooks.slack.com/services/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',
+))Checking token
+OUTPUT TO CLIENT:
+You are not priviliged to call this command yet!
